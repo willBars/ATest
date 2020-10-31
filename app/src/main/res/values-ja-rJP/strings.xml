@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">防衛狙撃</string>
+	<string name="app_value">イノセントワールド天下無賊</string>
+	<string name="app_ame">Haoyuedangkong</string>
+	<string name="current_value">ログイン</string>
+	<string name="user_value">ユーザー規約</string>
+</resources>

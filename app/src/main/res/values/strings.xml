@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">战鼓之魂</string>
+    <string name="app_value">天下无贼</string>
+    <string name="app_ame">皓月当空</string>
+    <string name="current_value">登录</string>
+    <string name="user_value">用户协议</string>
+</resources>

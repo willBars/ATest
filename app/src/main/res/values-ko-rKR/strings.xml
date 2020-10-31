@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">국방 스나이퍼</string>
+	<string name="app_value">도둑없는 세상</string>
+	<string name="app_ame">Haoyuedangkong</string>
+	<string name="current_value">로그인</string>
+	<string name="user_value">사용자 계약</string>
+</resources>
